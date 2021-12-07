@@ -3,7 +3,7 @@
 * @author ZeynepBurcuBastug zeynep.bastug@ogr.sakarya.edu.tr
 * @since 24.04.2021
 * <p>
-*coklukarakterolusturma
+*coklukarakterolusturmahj
 * </p>
 */
 package pkt;
